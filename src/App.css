@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  font-family: "Verdana";
+  justify-content: space-evenly;
+  background-color: #191970;
+  color: white;
+  font-size: 12px;
+}
+
+.body {
+  display:flex;
+  flex-wrap: wrap;
+}
